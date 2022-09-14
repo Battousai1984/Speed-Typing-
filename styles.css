@@ -51,3 +51,12 @@ body, .quote-input {
 .quote-Input:focus {
     border-color: black;
 }
+
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+    text-decoration: underline;
+}
